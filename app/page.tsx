@@ -173,7 +173,7 @@ export default function Home() {
                    <div className="p-6 flex flex-col flex-grow">
                      <h3 className="text-xl font-bold text-gray-800 mb-2">バンドページ</h3>
                      <p className="text-gray-600 text-sm leading-relaxed mb-6">
-                       2度目に任されたパンフレットのバンドページです。<br />最初のデザインとは変わって、海外らしい力強さが伝わるデザインを意識しました。
+                       サークルライブのフライヤーです。<br />重要な情報が目に入りやすいように意識し、冬らしい青の色感のデザインにしました。
                      </p>
                      <div className="flex gap-2 mt-auto">
                        <span className="bg-orange-100 text-orange-600 text-xs px-2.5 py-1 rounded-md font-bold">FireAlpaca</span>
